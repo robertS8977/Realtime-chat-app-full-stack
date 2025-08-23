@@ -37,7 +37,7 @@
   "devDependencies": {},
   "scripts": {
     "build":"npm install --prefix backend && npm install --prefix Forntend_pro && npm run build --prefix Forntend_pro",
-    "start":"npm run --prefix backend"
+    "start":"npm run start --prefix backend"
   },
   "keywords": [],
   "author": "",
