@@ -2,7 +2,7 @@
   "name": "backend",
   "version": "1.0.0",
   "description": "",
-  "main": "srcc/index.js",
+  "main": "src/index.js",
   "scripts": {
     "dev": "nodemon src/index.js",
     "start": "node src/index.js"
@@ -13,7 +13,6 @@
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^3.0.2",
-    "chat": "file:..",
     "cloudinary": "^2.7.0",
     "cookie-parser": "^1.4.7",
     "cors": "^2.8.5",
